@@ -55,7 +55,7 @@ public class PrimeiraAula {
         boolean valorBool = false;
         Boolean valorBool2 = false; 
         
-        int MaxValor = Integer.max(1, 0);
+        int MaxValor = Integer.max(1, 1);
         
         valorBool2.equals(valorBool);        
         
